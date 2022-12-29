@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beanie-anniversary/static/css/main.170b1309.css",
+    "main.js": "/beanie-anniversary/static/js/main.fb03efeb.js",
+    "index.html": "/beanie-anniversary/index.html",
+    "main.170b1309.css.map": "/beanie-anniversary/static/css/main.170b1309.css.map",
+    "main.fb03efeb.js.map": "/beanie-anniversary/static/js/main.fb03efeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.170b1309.css",
+    "static/js/main.fb03efeb.js"
+  ]
+}
