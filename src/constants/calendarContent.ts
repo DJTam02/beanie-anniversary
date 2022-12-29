@@ -5,7 +5,7 @@ export const calendarContent: Content[] = [
         message: "",
         title: "",
         verse: "",
-        verseLocation: "",
+        verseLocation: "John 3:16",
         date: new Date(2022, 0, 1)
     },
     {
