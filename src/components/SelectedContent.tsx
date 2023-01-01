@@ -8,7 +8,6 @@ import FullContent from "./FullContent";
 
 const SelectedContent = (props: ChildProps) => {
     const dateString = getDateString(props.content.date);
-    const today = new Date();
 
     const [isLoaded, setLoaded] = useState<boolean>(false);
     const [transitionFinished, setTransitionFinished] = useState<boolean>(false);
@@ -23,7 +22,7 @@ const SelectedContent = (props: ChildProps) => {
     }, []);
 
     const open = () => {
-        //if (isAfter(today, props.content.date)) 
+        if (isAfter(new Date(), props.content.date)) 
             setCookie(dateString, true);
     };
 

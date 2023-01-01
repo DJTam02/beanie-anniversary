@@ -9,7 +9,7 @@ export const calendarContent: Content[] = [
         title: "The Beginning",
         verse: "And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ.",
         verseLocation: "Philippians 1:6",
-        date: new Date(2022, 0, 1)
+        date: new Date(2023, 0, 1)
     },
     {
         message: "I'm nowhere near the perfect boyfriend that I want to be or that you deserve. " +
@@ -19,7 +19,7 @@ export const calendarContent: Content[] = [
         title: "Acceptance",
         verse: "but God shows his love for us in that while we were still sinners, Christ died for us.",
         verseLocation: "Romans 5:8",
-        date: new Date(2022, 0, 2)
+        date: new Date(2023, 0, 2)
     },
     {
         message: "I often feel like despite my efforts, I can never be enough. Like no matter what I do, I can never be as good as other people or myself expect me to be." + 
@@ -29,90 +29,90 @@ export const calendarContent: Content[] = [
         title: "Moral Support",
         verse: "I can do all things through him who strengthens me.",
         verseLocation: "Philippians 4:13",
-        date: new Date(2022, 0, 3)
+        date: new Date(2023, 0, 3)
     },
     {
         message: "",
         title: "",
         verse: "",
         verseLocation: "",
-        date: new Date(2022, 0, 4)
+        date: new Date(2023, 0, 4)
     },
     {
         message: "",
         title: "",
         verse: "",
         verseLocation: "",
-        date: new Date(2022, 0, 5)
+        date: new Date(2023, 0, 5)
     },
     {
         message: "",
         title: "",
         verse: "",
         verseLocation: "",
-        date: new Date(2022, 0, 6)
+        date: new Date(2023, 0, 6)
     },
     {
         message: "",
         title: "",
         verse: "",
         verseLocation: "",
-        date: new Date(2022, 0, 7)
+        date: new Date(2023, 0, 7)
     },
     {
         message: "",
         title: "",
         verse: "",
         verseLocation: "",
-        date: new Date(2022, 0, 8)
+        date: new Date(2023, 0, 8)
     },
     {
         message: "",
         title: "",
         verse: "",
         verseLocation: "",
-        date: new Date(2022, 0, 9)
+        date: new Date(2023, 0, 9)
     },
     {
         message: "",
         title: "",
         verse: "",
         verseLocation: "",
-        date: new Date(2022, 0, 10)
+        date: new Date(2023, 0, 10)
     },
     {
         message: "",
         title: "",
         verse: "",
         verseLocation: "",
-        date: new Date(2022, 0, 11)
+        date: new Date(2023, 0, 11)
     },
     {
         message: "",
         title: "",
         verse: "",
         verseLocation: "",
-        date: new Date(2022, 0, 12)
+        date: new Date(2023, 0, 12)
     },
     {
         message: "",
         title: "",
         verse: "",
         verseLocation: "",
-        date: new Date(2022, 0, 13)
+        date: new Date(2023, 0, 13)
     },
     {
         message: "",
         title: "",
         verse: "",
         verseLocation: "",
-        date: new Date(2022, 0, 14)
+        date: new Date(2023, 0, 14)
     },
     {
         message: "",
         title: "",
         verse: "",
         verseLocation: "",
-        date: new Date(2022, 0, 15)
+        date: new Date(2023, 0, 15)
     }
 ]
