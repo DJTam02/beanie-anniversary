@@ -4,6 +4,7 @@ import useCookies from "react-cookie/cjs/useCookies";
 import { getDateString, isAfter } from "../functions/date";
 import { Content } from "../types/content";
 import ContentDisplay from "./ContentDisplay";
+import FullContent from "./FullContent";
 
 const SelectedContent = (props: ChildProps) => {
     const dateString = getDateString(props.content.date);
@@ -39,9 +40,7 @@ const SelectedContent = (props: ChildProps) => {
     return (<React.Fragment>
         <div className={backgroundClass} onClick={props.close}></div>
         <div className={contentClass} style={style}>
-            <div className="content-wrapper">
-                {cookies[dateString] && "content"}
-            </div>
+            {cookies[dateString] && <FullContent content={props.content} />}
             <div className="display-wrapper transition pointer" onClick={open} style={cookies[dateString] ? { maxHeight: "0px" } : {}}>
                 <div style={{ minHeight: transitionFinished ? "calc(70vh - 40px)" : "", height: "100%" }}>
                     <ContentDisplay verseLocation={props.content.verseLocation} date={props.content.date} />

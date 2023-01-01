@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
 body {
     margin: 0px;
     background-color: #121212;
     color: white;
+    font-family: 'Caveat';
 }
 
 .calendar {
@@ -74,6 +76,7 @@ body {
 
 .content-wrapper {
     position: absolute;
+    padding: 0px 40px;
 }
 
 .full {
@@ -122,6 +125,20 @@ body {
 
 .no-overflow {
     overflow: hidden;
+}
+
+.content-title {
+    font-size: 72px;
+}
+
+.content-message {
+    font-size: 32px;
+}
+
+.content-verse {
+    float: right;
+    text-align: right;
+    font-size: 24px;
 }
 
 @media (max-width: 1580px) {
