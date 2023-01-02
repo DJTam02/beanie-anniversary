@@ -32,17 +32,25 @@ export const calendarContent: Content[] = [
         date: new Date(2023, 0, 3)
     },
     {
-        message: "",
-        title: "",
-        verse: "",
-        verseLocation: "",
+        message: "You've probably already noticed but I'm a very ambitious person, sometimes to my downfall. " +
+        "I often bite off more than I can chew and commit myself to more than I can handle. " + 
+        "This leads to me saying that I would do things without actually doing them, making empty promises. " + 
+        "You always remind me of the things I said I would do and want to do and hold me accountable for them. " + 
+        "You doing this has helped me become a better man and I appreciate you going through the pain it caused you to help me learn this lesson.",
+        title: "Accountability",
+        verse: "Iron sharpens iron, and one man sharpens another.",
+        verseLocation: "Proverbs 27:17",
         date: new Date(2023, 0, 4)
     },
     {
-        message: "",
-        title: "",
-        verse: "",
-        verseLocation: "",
+        message: "I often say that women are mysterious creatures, and while the same can be said about people in general, girls tend to not be as straightforward as guys. " +
+        "I get really frustrated when people say one thing but mean the other because I'm not particularly good at sensing how people feel. " + 
+        "I love how you are transparent with me and let me know when I am wrong. " + 
+        "Rather than suppressing the problem and hoping it would fix itself, you tell me what the issue is and what I did wrong. " +
+        "I appreciate how you tell me what you want me to do rather than just expect me to do it.",
+        title: "Transparency",
+        verse: "If your brother sins against you, go and tell him his fault, between you and him alone. If he listen to you, you have gained a brother.",
+        verseLocation: "Matthew 18:15",
         date: new Date(2023, 0, 5)
     },
     {
