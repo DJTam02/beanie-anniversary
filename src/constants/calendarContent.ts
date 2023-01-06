@@ -49,22 +49,30 @@ export const calendarContent: Content[] = [
         "Rather than suppressing the problem and hoping it would fix itself, you tell me what the issue is and what I did wrong. " +
         "I appreciate how you tell me what you want me to do rather than just expect me to do it.",
         title: "Transparency",
-        verse: "If your brother sins against you, go and tell him his fault, between you and him alone. If he listen to you, you have gained a brother.",
+        verse: "If your brother sins against you, go and tell him his fault, between you and him alone. If he listens to you, you have gained a brother.",
         verseLocation: "Matthew 18:15",
         date: new Date(2023, 0, 5)
     },
     {
-        message: "",
-        title: "",
-        verse: "",
-        verseLocation: "",
+        message: "I'm no stranger to overthinking, and it often leads to more stress and anxiety for me. " +
+        "I often think too much about situations that really aren't that deep and it overtakes my thoughts and mood. " +
+        "When my thoughts are racing and it becomes hard to hear myself, I hear you as you talk some sense into me. " +
+        "Like God when I am the same, you remind me of the truths I can stand upon when they are clouded by my messy mind. " +
+        "You lead me to believe that things are not as bad as I think they seem and give me peace just like The Great Comforter above.",
+        title: "Comfort",
+        verse: "This is my comfort in my affliction, that your promise gives me life.",
+        verseLocation: "Psalm 119:50",
         date: new Date(2023, 0, 6)
     },
     {
-        message: "",
-        title: "",
-        verse: "",
-        verseLocation: "",
+        message: "I always joke that women aren't funny. While I don't laugh as much when I'm with girls as when I'm with guys, you bring laughter with you wherever you go. " +
+        "Regardless of how you feel, you always have jokes to say and find ways to make people laugh. " +
+        "You lift people's spirits and create an atmosphere that is less intimidating and more welcoming. " + 
+        "You always find a way to make me laugh and it makes spending time with you so much more enjoyable. " +
+        "Like God, you give me so much happiness which I appreciate a lot especially when I'm not in a good mood. ",
+        title: "Laughter",
+        verse: "He will yet fill your mouth with laughter, and your lips with shouting.",
+        verseLocation: "Job 8:20",
         date: new Date(2023, 0, 7)
     },
     {

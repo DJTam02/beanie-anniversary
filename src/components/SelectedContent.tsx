@@ -40,7 +40,7 @@ const SelectedContent = (props: ChildProps) => {
         <div className={backgroundClass} onClick={props.close}></div>
         <div className={contentClass} style={style}>
             {cookies[dateString] && <FullContent content={props.content} />}
-            <div className="display-wrapper transition pointer" onClick={open} style={cookies[dateString] ? { maxHeight: "0px" } : {}}>
+            <div className="display-wrapper transition pointer" onClick={(e) => open()} style={cookies[dateString] ? { maxHeight: "0px" } : {}}>
                 <div style={{ minHeight: transitionFinished ? "calc(70vh - 40px)" : "", height: "100%" }}>
                     <ContentDisplay verseLocation={props.content.verseLocation} date={props.content.date} />
                 </div>
