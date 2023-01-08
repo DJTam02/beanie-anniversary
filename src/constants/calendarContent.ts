@@ -76,10 +76,14 @@ export const calendarContent: Content[] = [
         date: new Date(2023, 0, 7)
     },
     {
-        message: "",
-        title: "",
-        verse: "",
-        verseLocation: "",
+        message: "One of my biggest issues is my desire to be accepted by people. This fuels my inability to say no to people which leads to me planning a very busy schedule. " +
+        "I don't take time to step back and slow my life down which leads to me constantly being exhausted. " +
+        "Luckily for me, spending time with you makes me feel refreshed, just like spending time with God. " +
+        "Your acceptance of who I am along with your chill attitude allows me to charge my batteries, especiall after a long day. " +
+        "Whether we're just talking together, watching a show, or even just sitting near each other, I feel refreshed being around you.",
+        title: "Refreshment",
+        verse: "Come to me, all who labour and are heavy laden, and I will give you rest.",
+        verseLocation: "Matthew 11:28",
         date: new Date(2023, 0, 8)
     },
     {
