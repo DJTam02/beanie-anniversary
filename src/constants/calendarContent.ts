@@ -79,7 +79,7 @@ export const calendarContent: Content[] = [
         message: "One of my biggest issues is my desire to be accepted by people. This fuels my inability to say no to people which leads to me planning a very busy schedule. " +
         "I don't take time to step back and slow my life down which leads to me constantly being exhausted. " +
         "Luckily for me, spending time with you makes me feel refreshed, just like spending time with God. " +
-        "Your acceptance of who I am along with your chill attitude allows me to charge my batteries, especiall after a long day. " +
+        "Your acceptance of who I am along with your chill attitude allows me to charge my batteries, especially after a long day. " +
         "Whether we're just talking together, watching a show, or even just sitting near each other, I feel refreshed being around you.",
         title: "Refreshment",
         verse: "Come to me, all who labour and are heavy laden, and I will give you rest.",
@@ -87,10 +87,16 @@ export const calendarContent: Content[] = [
         date: new Date(2023, 0, 8)
     },
     {
-        message: "",
-        title: "",
-        verse: "",
-        verseLocation: "",
+        message: "Seeing as you are starting work today, I wanted to give you encouragement for your first week that you can also look back on whenever you need it. " +
+        "When I started my first developer job, I wasn't very good. " + 
+        "For almost any task I was given, I had to take a good amount of time to look through the code to see how it worked and search how to do my task on Google. " +
+        "This may make you feel stupid, but know that it is a very normal thing to do, even for Senior Developers. " +
+        "I know it's going to be tough trying to understand everything and sometimes you will want to just give up. " + 
+        "However, it's important to remember that God has placed you where you are now and has called you to work hard so that you may give glory to Him. " +
+        "God will give you the strength you need to persevere through that; all you have to do is ask.",
+        title: "Perseverance",
+        verse: "I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus.",
+        verseLocation: "Philippians 3:14",
         date: new Date(2023, 0, 9)
     },
     {

@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/beanie-anniversary/static/css/main.738099c6.css",
-    "main.js": "/beanie-anniversary/static/js/main.bb7a965e.js",
+    "main.js": "/beanie-anniversary/static/js/main.2679920f.js",
     "index.html": "/beanie-anniversary/index.html",
     "main.738099c6.css.map": "/beanie-anniversary/static/css/main.738099c6.css.map",
-    "main.bb7a965e.js.map": "/beanie-anniversary/static/js/main.bb7a965e.js.map"
+    "main.2679920f.js.map": "/beanie-anniversary/static/js/main.2679920f.js.map"
   },
   "entrypoints": [
     "static/css/main.738099c6.css",
-    "static/js/main.bb7a965e.js"
+    "static/js/main.2679920f.js"
   ]
 }
