@@ -100,10 +100,15 @@ export const calendarContent: Content[] = [
         date: new Date(2023, 0, 9)
     },
     {
-        message: "",
-        title: "",
-        verse: "",
-        verseLocation: "",
+        message: "I've heard you say a couple times that you have no potential. It breaks my heart whenever I hear that because I wish you would see yourself the way I see you. " +
+        "I know what it's like to feel like you have no potential and it's probably because you're comparing yourself to other people. " +
+        "Comparison is the thief of joy and comparing yourself to other people blinds you from the fact that you are such a bright person. " +
+        "But sometimes it's hard to see that in yourself. That's when I usually turn to God. " +
+        "I am reminded that everything God created is good and you are God's creation so therefore you are good. " +
+        "No matter how you see yourself, that version of you is loved and accepted by God. He knows that through Him, you have potential and in the end that's all that matters. ",
+        title: "Potential",
+        verse: "I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.",
+        verseLocation: "Psalm 139:14",
         date: new Date(2023, 0, 10)
     },
     {
