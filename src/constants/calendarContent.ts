@@ -112,10 +112,15 @@ export const calendarContent: Content[] = [
         date: new Date(2023, 0, 10)
     },
     {
-        message: "",
-        title: "",
-        verse: "",
-        verseLocation: "",
+        message: "I've talked about this before but I wanted to put it here so you can come back to it whenver you are feeling anxious. " +
+        "Whatever you are anxious about, it will all turn out okay. You have a great and powerful God that loves you too much to let it turn out otherwise. " +
+        "God can control all things and He will do whatever is best for you. " +
+        "Now while that's very easy to understand, it's not easy to believe. That is why God instructs us to go to Him in prayer when we are anxious. " +
+        "Tell Him what is on your mind and if you don't know what to say, find peace in the fact that God already knows your situation. " +
+        "What you say to Him doesn't matter, He knows your heart. What matters is that you go to Him in times of trial.",
+        title: "Anxiety",
+        verse: "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+        verseLocation: "Philippians 4:6",
         date: new Date(2023, 0, 11)
     },
     {
