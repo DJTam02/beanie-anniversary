@@ -39,7 +39,7 @@ body {
 
 .selected-content {
     width: 70%;
-    height: 70%;
+    min-height: 70%;
     background-color: white;
     position: absolute;
     top: 50%;
@@ -76,6 +76,9 @@ body {
 
 .content-wrapper {
     position: absolute;
+    top: 0px;
+    overflow-y: scroll;
+    height: 100%;
     padding: 0px 40px;
 }
 

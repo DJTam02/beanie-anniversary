@@ -22,7 +22,7 @@ const SelectedContent = (props: ChildProps) => {
     }, []);
 
     const open = () => {
-        if (isAfter(new Date(), props.content.date)) 
+        if (true)//isAfter(new Date(), props.content.date)) 
             setCookie(dateString, true);
     };
 

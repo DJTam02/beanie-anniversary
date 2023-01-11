@@ -124,17 +124,27 @@ export const calendarContent: Content[] = [
         date: new Date(2023, 0, 11)
     },
     {
-        message: "",
-        title: "",
-        verse: "",
-        verseLocation: "",
+        message: "You talk a lot about you not being normal and act like it's a bad thing. " +
+        "God has made everyone differently so there is no real definition of normal. " + 
+        "But even if you think you are not normal by your standards, know that God accepts you for who you are. " +
+        "No matter what lens you see yourself through, God sees you through the lens that makes you worthy of His love. " +
+        "You don't have to worry about if you are normal because normality is conforming to what the world views as normal. " +
+        "As Christians we are called to not conform to the world and so our definition of normality is what God defines it as, which is His creation. ",
+        title: "Normality",
+        verse: "Therefore welcome one another as Christ has welcomed you, for the glory of God.",
+        verseLocation: "Romans 15:7",
         date: new Date(2023, 0, 12)
     },
     {
-        message: "",
-        title: "",
-        verse: "",
-        verseLocation: "",
+        message: "Loneliness is something everyone faces. Whether you are all alone or you are surrounded by people, it's easy to feel like no one understands you. " +
+        "Sometimes it feels like no one is relatable or you don't have anything in common with anybody. " +
+        "But that is one of the many beauties of God's character: That He is omnipotent and omnipresent. " +
+        "Wherever you go, God is with you. However you feel, God understands what it feels like. Whatever you are thinking, God knows that too. " +
+        "God is the only being who truly understands us and luckily for us, He has promised to never leave our side. " +
+        "But if you're looking for more physical interactions, the church community is always there for you. You will always have something in common with them: Jesus Christ as your saviours.",
+        title: "Loneliness",
+        verse: "fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand.",
+        verseLocation: "Isaiah 41:10",
         date: new Date(2023, 0, 13)
     },
     {
