@@ -39,7 +39,7 @@ body {
 
 .selected-content {
     width: 70%;
-    min-height: 70%;
+    height: 70%;
     background-color: white;
     position: absolute;
     top: 50%;
