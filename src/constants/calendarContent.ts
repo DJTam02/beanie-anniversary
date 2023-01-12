@@ -148,17 +148,28 @@ export const calendarContent: Content[] = [
         date: new Date(2023, 0, 13)
     },
     {
-        message: "",
-        title: "",
-        verse: "",
-        verseLocation: "",
+        message: "Burn out is a very dangerous thing that causes you to become lazy after a busy period, that's why taking action to prevent it is important. " +
+        "Preventing burn out, however, is not just about reducing the amount of work you do, but also getting enough proper rest. " +
+        "Resting with God is the only way to receive proper rest as the peace He provides allows us to remove ourselves from our busy life. " +
+        "God designated a sabbath day for rest and regardless of which day you take it on, it's important that you make an effort to take a day off for Godly rest. " +
+        "Sunday is a great day for the sabbath since we can find Godly rest amongst other believers at church. " + 
+        "However you are feeling when you see this, I encourage you next Sunday to take some extra time outside of your devotions to spend time with God and receive rest.",
+        title: "Burning Out",
+        verse: "for whoever has entered God's rest has also rested from his works as God did from His.",
+        verseLocation: "Hebrews 4:10",
         date: new Date(2023, 0, 14)
     },
     {
-        message: "",
-        title: "",
-        verse: "",
-        verseLocation: "",
+        message: "Happy Anniversary!! I named this card semi-colon because I wanted briefly pause and take time to say how much you mean to me. " + 
+        "I mean every single word that I've put in this advent calendar and while the new content is over, I want you to come back to this every so often to be reminded of how much I appreciate you." +
+        "I also want you to come back to this for encouragement whenever you need it (and also come to me). " +
+        "This past year I have improved so much and I owe all of it to you. Without your encouragement, I wouldn't be the person I am today. " +
+        "Thank you for sticking with me during these growing pains and I hope you can stay with me as I continue to work on myself. " +
+        "Everytime I read these words, Paul's gratitude towards the Philippians amazes me; that he is so thankful to know them that he thanks God. " +
+        "This is how I feel towards you, I thank my God everytime I remember you.",
+        title: "Semi-colon",
+        verse: "I thank my God everytime I remember you.",
+        verseLocation: "Philippians 1:3",
         date: new Date(2023, 0, 15)
     }
 ]
